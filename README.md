@@ -64,14 +64,14 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| clear.pizza    | available | $19.99    | $84.99        | 90             | 49     | 5      | name.com        |
+| simple.pizza   | available | $19.99    | $84.99        | 128            | 49     | 6      | name.com        |
 | sweet.pizza    | resell    | —         | —             | 72             | 99     | 5      | Spaceship, Inc. |
 | alpha.pizza    | premium   | $250      | $250          | 90             | 53     | 5      | name.com        |
-| simple.pizza   | available | $19.99    | $84.99        | 128            | 48     | 6      | name.com        |
+| clear.pizza    | available | $19.99    | $84.99        | 90             | 49     | 5      | name.com        |
 | get.pizza      | resell    | —         | —             | 88             | 70     | 3      | Porkbun LLC     |
 | game.pizza     | premium   | $123.75   | $123.75       | 120            | 50     | 4      | name.com        |
 | genius.pizza   | available | $19.99    | $84.99        | 98             | 45     | 6      | name.com        |
-| free.pizza     | resell    | —         | —             | 88             | 59     | 4      | 1API GmbH       |
+| free.pizza     | resell    | —         | —             | 88             | 57     | 4      | 1API GmbH       |
 | air.pizza      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap       |
 | strategy.pizza | available | $83.98    | —             | 74             | 43     | 8      | namecheap       |
 | good.pizza     | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc     |
@@ -79,10 +79,10 @@ print(df.head())
 | trade.pizza    | available | $83.98    | —             | 116            | 42     | 5      | namecheap       |
 | zero.pizza     | resell    | —         | —             | 112            | 53     | 4      | Spaceship, Inc. |
 | all.pizza      | premium   | $82.50    | $82.50        | 88             | 48     | 3      | name.com        |
-| content.pizza  | available | $19.99    | $84.99        | 138            | 40     | 7      | name.com        |
+| water.pizza    | available | $83.98    | —             | 108            | 40     | 5      | namecheap       |
 | buy.pizza      | resell    | —         | —             | 106            | 53     | 3      | Dynadot Inc     |
 | car.pizza      | premium   | $128.70   | $128.70       | 94             | 46     | 3      | namecheap       |
-| water.pizza    | available | $83.98    | —             | 108            | 40     | 5      | namecheap       |
+| care.pizza     | available | $83.98    | —             | 80             | 40     | 4      | namecheap       |
 | sky.pizza      | resell    | —         | —             | 80             | 50     | 3      | Cronon GmbH     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
