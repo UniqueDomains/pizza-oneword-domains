@@ -77,7 +77,7 @@ print(df.head())
 | watches.pizza   | available | $19.99    | —             | 84             | 19     | 7      | name.com  |
 | getlife.pizza   | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
 | shortcuts.pizza | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| etc.pizza       | premium   | $250      | —             | 58             | 34     | 3      | name.com  |
+| etc.pizza       | premium   | $250      | —             | 58             | 32     | 3      | name.com  |
 | rewards.pizza   | premium   | $500      | —             | 62             | 30     | 7      | name.com  |
 | spectra.pizza   | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
 | tips.pizza      | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
