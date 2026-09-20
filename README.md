@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pizza one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,830 domains · **Median ask:** $14.93 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/pizza`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,13 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Ann.pizza     | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| good.pizza    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| ann.pizza     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| shift.pizza   | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc. |
 | ash.pizza     | premium   | $242      | $242          | medium         | low    | 3      | namesilo        |
 | cxx.pizza     | available | $5.98     | $83.98        | low            | low    | 3      | namecheap       |
-| shift.pizza   | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc. |
+| capital.pizza | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC    |
 | bid.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | ixl.pizza     | available | $5.98     | $83.98        | low            | low    | 3      | namecheap       |
-| capital.pizza | resell    | —         | —             | medium         | medium | 7      | Sav.com, LLC    |
 | bio.pizza     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
 | lay.pizza     | available | $19.99    | —             | medium         | low    | 3      | name.com        |
 | bug.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
@@ -84,6 +83,7 @@ print(df.head())
 | sum.pizza     | available | $19.99    | $84.99        | medium         | low    | 3      | name.com        |
 | him.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | sup.pizza     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| how.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
