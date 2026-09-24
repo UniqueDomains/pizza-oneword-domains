@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pizza one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,066 domains · **Median ask:** $14.77 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/pizza`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| quiet.pizza   | available | $19.99    | —             | high           | low    | 5      | name.com        |
-| perfect.pizza | premium   | $500      | —             | high           | low    | 7      | name.com        |
-| steady.pizza  | available | $19.99    | —             | high           | low    | 6      | name.com        |
 | ann.pizza     | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | shift.pizza   | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc. |
 | ash.pizza     | premium   | $242      | $242          | medium         | low    | 3      | namesilo        |
@@ -84,6 +81,9 @@ print(df.head())
 | sob.pizza     | available | $5.98     | $83.98        | low            | low    | 3      | namecheap       |
 | fly.pizza     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
 | sum.pizza     | available | $17.99    | $64.99        | low            | low    | 3      | namesilo        |
+| him.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| sup.pizza     | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| how.pizza     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
