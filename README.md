@@ -1,10 +1,10 @@
-# Available .PIZZA One-Word Domains (32,028)
+# Available .PIZZA One-Word Domains (22,198)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C028%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C198%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pizza one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,028 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,198 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,028 domains · **Median ask:** $14.80 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,198 domains · **Median ask:** $16.35 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/pizza`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ann.pizza       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| saint.pizza     | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| aid.pizza       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| aug.pizza       | available | $5.98     | $83.98        | high           | low    | 3      | namecheap        |
-| shift.pizza     | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.  |
-| ala.pizza       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| bce.pizza       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| burger.pizza    | resell    | —         | —             | high           | low    | 6      | Porkbun LLC      |
-| ash.pizza       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| cnn.pizza       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| microwave.pizza | resell    | —         | —             | high           | low    | 9      | 1API GmbH        |
-| bid.pizza       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| cry.pizza       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| bio.pizza       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
-| cxx.pizza       | available | $5.98     | $83.98        | high           | low    | 3      | namecheap        |
-| bro.pizza       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| ixl.pizza       | available | $5.98     | $83.98        | medium         | low    | 3      | namecheap        |
-| bug.pizza       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| lay.pizza       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| don.pizza       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aar.pizza    | available | $17.99    | $64.99        | medium         | low    | 3      | namesilo                                                  |
+| bake.pizza   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fin.pizza    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| ano.pizza    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| beer.pizza   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| iii.pizza    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| cub.pizza    | available | $5.98     | $83.98        | high           | low    | 3      | namecheap                                                 |
+| like.pizza   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| ire.pizza    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| dai.pizza    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| saint.pizza  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| meg.pizza    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| fop.pizza    | available | $19.99    | $84.99        | medium         | low    | 3      | name.com                                                  |
+| unique.pizza | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| ted.pizza    | premium   | $82.50    | —             | high           | low    | 3      | name.com                                                  |
+| had.pizza    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| use.pizza    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| hem.pizza    | available | $5.98     | $83.98        | high           | low    | 3      | namecheap                                                 |
+| dogs.pizza   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| nne.pizza    | available | $5.98     | $83.98        | high           | low    | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,028 live domains                        |
+| 1,000-row public sample | 22,198 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PIZZA One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
