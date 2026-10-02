@@ -64,7 +64,7 @@ bcb0e09f-f329-437b-b176-be98a2eec51f,foe.pizza,available,5.98,83.98,medium,low,3
 63cdc65c-c42d-49be-900a-fbb2d70f37a1,situations.pizza,available,17.99,64.99,medium,low,10,namesilo,,,28/09/2026 04:50
 1a7f1dbb-5a0e-47d8-8d71-89a3842fda85,considered.pizza,available,5.98,83.98,high,low,10,namecheap,,,23/09/2026 20:51
 f43a842c-95da-4b77-9f88-f4de940482d4,lawless.pizza,available,5.98,83.98,medium,low,7,namecheap,,,
-d50fb5de-f22c-4bda-ba17-9a20d66bd23e,katy.pizza,available,19.99,,high,low,4,name.com,,,
+d50fb5de-f22c-4bda-ba17-9a20d66bd23e,katy.pizza,available,5.38,51.95,high,low,4,spaceship,,,01/10/2026 22:40
 4d631435-33e7-4c20-8961-474b8fccbf25,elliptic.pizza,available,5.98,83.98,high,low,8,namecheap,,,15/08/2026 17:59
 abe6d8c0-0a08-4951-90f5-b3fbf109a568,nsf.pizza,available,17.99,64.99,high,low,3,namesilo,,,28/09/2026 10:31
 697ee9f6-c4ca-413f-82d8-95592693cf38,scalene.pizza,available,5.98,83.98,medium,low,7,namecheap,,,09/09/2026 22:25
@@ -74,11 +74,12 @@ aa76e1d2-4f47-411f-987d-db2123deabd4,colonial.pizza,available,5.98,83.98,high,lo
 2a61ed8e-b3aa-4ca4-982a-4543fe48553b,ingenuous.pizza,available,5.98,83.98,medium,low,9,namecheap,,,06/08/2026 23:41
 bf1e6771-8721-434a-954e-128d4dc5aa92,foothold.pizza,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 10:16
 e4ee2c58-a340-4a40-a847-6784b80ea5f6,sensing.pizza,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 14:15
+36251677-f4c0-49ed-afe8-8f2c01c0cb29,lachlan.pizza,available,17.99,64.99,medium,low,7,namesilo,,,02/10/2026 04:04
 ffc33875-184a-4742-a3e3-753e8a0ed90e,language.pizza,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 15:54
 b44d8be9-fb6f-4681-af8d-34737b2645ad,antiquary.pizza,available,5.98,83.98,medium,low,9,namecheap,,,
 ecdcaa6b-6a49-4e9a-8637-1dd79a95ce0a,major.pizza,available,5.98,83.98,high,low,5,namecheap,,,25/09/2026 16:14
 3760852a-208f-4402-b488-427a5306b30c,sightseeing.pizza,available,5.98,83.98,high,low,11,namecheap,,,30/09/2026 14:59
-ebe6090e-6697-41ed-abb4-4b67cde0bfee,ahuh.pizza,available,19.99,,medium,low,4,name.com,,,
+ebe6090e-6697-41ed-abb4-4b67cde0bfee,ahuh.pizza,available,5.38,51.95,medium,low,4,spaceship,,,02/10/2026 04:54
 52a68585-6aac-4ee6-8342-daef23c19a3b,necked.pizza,available,5.98,83.98,medium,low,6,namecheap,,,03/09/2026 14:40
 8bddeb61-1f2a-4e8d-9eb6-0f3ef5c7b8f3,equivalent.pizza,available,17.99,64.99,high,low,10,namesilo,,,24/09/2026 14:50
 35a40109-3d4f-4983-9539-06d480e0c5de,aliquot.pizza,available,5.98,83.98,high,low,7,namecheap,,,
@@ -87,6 +88,7 @@ ebe6090e-6697-41ed-abb4-4b67cde0bfee,ahuh.pizza,available,19.99,,medium,low,4,na
 e42d025b-4ebb-4e36-b475-ecf20145dae4,vessel.pizza,available,5.98,83.98,high,low,6,namecheap,,,27/09/2026 16:11
 df6eb199-fb38-4065-8ecd-1eeee8b3be6b,semipublic.pizza,available,5.98,83.98,medium,low,10,namecheap,,,10/09/2026 03:17
 0db9a66f-5a1b-4cbe-a9b9-82cb4f59374d,latakia.pizza,available,5.98,83.98,medium,low,7,namecheap,,,18/09/2026 01:28
+84801a66-9b8b-4c11-b3db-d87b3b31ae12,unpublished.pizza,available,5.38,51.95,medium,low,11,spaceship,,,02/10/2026 01:35
 e2b7d90f-830a-4122-8a3f-2fbb39e6e9d5,stumpy.pizza,available,5.98,83.98,medium,low,6,namecheap,,,24/08/2026 10:40
 f2a7b9b8-41aa-4cdc-8a81-7a63db677d38,dependable.pizza,available,5.98,83.98,high,low,10,namecheap,,,14/08/2026 02:04
 c55d5c4f-7ebd-4fc2-bc86-6b071a00c67c,xiv.pizza,available,17.99,64.99,high,low,3,namesilo,,,21/09/2026 11:42
@@ -107,7 +109,7 @@ c008880f-2576-4888-8516-0fc2a17a919d,glum.pizza,available,5.98,83.98,medium,low,
 2614a92a-155b-49bc-b406-34c0d709375e,armor.pizza,available,17.99,64.99,high,low,5,namesilo,,,20/09/2026 07:21
 972b578d-abbd-431a-8e22-23f7f8f5ca5f,confucian.pizza,available,5.98,83.98,high,low,9,namecheap,,,12/08/2026 21:15
 896b1374-00fe-476b-a0d9-833c1f24d96f,trout.pizza,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 06:50
-13d3e0c6-00f5-4845-aa79-5da30ddfb3a5,surroundings.pizza,available,5.98,83.98,high,low,12,namecheap,,,28/09/2026 06:36
+13d3e0c6-00f5-4845-aa79-5da30ddfb3a5,surroundings.pizza,available,50.2,50.2,high,low,12,cloudflare,,,01/10/2026 17:40
 a2ea60d0-c6c9-4f9d-a1f0-4305025981f6,uniting.pizza,available,17.99,64.99,high,low,7,namesilo,,,18/09/2026 15:39
 d8b450c3-923a-40d6-8ce1-ee27c2a74018,reptiles.pizza,available,5.98,83.98,medium,low,8,namecheap,,,30/09/2026 14:47
 1ee32a82-b9f0-4aa1-af9f-fc3d9ad504c9,ordering.pizza,available,5.38,51.95,high,low,8,spaceship,,,27/09/2026 15:05
@@ -122,6 +124,7 @@ f3cd108a-bf15-486a-a6c0-9da8809128b5,finch.pizza,available,10.81,52.01,high,low,
 f377ac85-b8d4-451a-8345-a7dfe3cd19e5,inhabitants.pizza,available,17,,medium,low,11,unstoppable,,,29/09/2026 23:30
 70c612bf-f6ad-4411-8055-8554b4f5e685,shirt.pizza,available,50.2,50.2,high,low,5,cloudflare,,,30/09/2026 11:09
 badb9243-e8ea-4e08-9d04-d856102da745,consecrate.pizza,available,5.98,83.98,high,low,10,namecheap,,,12/08/2026 22:25
+8d63b18c-e7d6-4247-b455-a50c37c577a0,tentacles.pizza,available,5.38,51.95,medium,low,9,spaceship,,,02/10/2026 03:57
 fd6e6421-7e5b-4423-ba36-14516c0963fc,cpc.pizza,premium,68.51,68.51,high,low,3,spaceship,,,28/09/2026 16:33
 59452248-2481-43e1-826f-3c78947039a1,poisoning.pizza,available,17.99,64.99,medium,low,9,namesilo,,,30/09/2026 00:17
 51e78d4a-2410-4576-8919-775946385839,entity.pizza,available,10.92,53.72,high,low,6,dynadot,,,29/09/2026 02:32
@@ -143,24 +146,27 @@ cf76e732-477b-43ce-9eaa-632339cc9f82,adjunction.pizza,available,5.98,83.98,mediu
 87f7111d-c705-4ae6-b21a-15b5ed1a2abf,harmon.pizza,available,17.99,64.99,high,low,6,namesilo,,,27/09/2026 07:57
 95573ffa-1249-4b16-a79f-a39f6483c36e,tricolor.pizza,available,5.98,83.98,medium,low,8,namecheap,,,11/09/2026 19:26
 1953f400-3d46-4623-999d-336af5d491eb,sindh.pizza,available,17.99,64.99,medium,low,5,namesilo,,,30/09/2026 13:12
+b4b269e9-b858-4c93-a76d-dca4b79eaf37,ganesh.pizza,available,50.2,50.2,high,low,6,cloudflare,,,02/10/2026 04:59
 87677738-4995-4fab-b191-22b02a38c5f5,databases.pizza,available,17.99,64.99,medium,low,9,namesilo,,,30/09/2026 15:32
 1a7fcbc3-0903-4a44-8912-ab683349d2a4,brassy.pizza,available,5.98,83.98,medium,low,6,namecheap,,,11/08/2026 02:33
 d7b81aac-0410-466a-babd-4cacf248ca63,hypotonic.pizza,available,5.98,83.98,medium,low,9,namecheap,,,21/08/2026 17:19
 5c6f41bc-3368-46aa-abb5-000692d4c9cd,rowland.pizza,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 15:13
+b49e21e2-0aed-4bcc-b6a7-a03d8c028748,fainting.pizza,available,17.99,64.99,medium,low,8,namesilo,,,01/10/2026 22:58
 ad436ca5-de24-4268-90ab-4b9ed729e7e6,subsaharan.pizza,available,17.99,64.99,medium,low,11,namesilo,,,30/09/2026 12:27
 c3aa6091-c6f5-45f5-b007-2d214ffdaac8,haughty.pizza,available,5.98,83.98,medium,low,7,namecheap,,,21/08/2026 01:24
 ea2a6f7e-985d-4c77-8d99-13c1b03c1e44,warmed.pizza,available,5.98,83.98,high,low,6,namecheap,,,13/09/2026 08:22
 04abd3e3-3878-4859-8e96-b827937ddc00,mirror.pizza,available,5.38,51.95,high,low,6,spaceship,,,30/09/2026 04:41
-4c6b366b-2b61-419d-b7bb-5745c990ec6c,digitally.pizza,available,5.38,51.95,medium,low,9,spaceship,,,28/09/2026 12:07
+4c6b366b-2b61-419d-b7bb-5745c990ec6c,digitally.pizza,available,17,51.95,high,low,9,unstoppable,,,01/10/2026 20:08
 10105887-9496-4fb1-8f7f-08a340b342d4,loading.pizza,available,17.99,64.99,high,low,7,namesilo,,,24/09/2026 12:57
 27b05dd4-04c7-41aa-946a-76d731c57592,score.pizza,available,5.38,51.95,high,low,5,spaceship,,,27/09/2026 18:29
 4ee091e1-f541-48a8-9551-c22bae2b6fba,humanely.pizza,available,5.98,83.98,medium,low,8,namecheap,,,15/09/2026 01:17
 ca3b9daa-e016-47ce-a564-ae6b16d8068a,inland.pizza,available,5.98,83.98,high,low,6,namecheap,,,22/08/2026 05:49
 ae72acf8-c3cb-4dd1-9e08-c5b9edcbc804,vampires.pizza,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 13:22
-4373b4a0-b8a9-4c5f-ad94-635c0ec297b8,pentium.pizza,available,19.99,,high,low,7,name.com,,,
+4373b4a0-b8a9-4c5f-ad94-635c0ec297b8,pentium.pizza,available,17.99,64.99,high,low,7,namesilo,,,01/10/2026 11:44
 7653752f-e2ef-4631-ba4d-ad541be4c9c0,aside.pizza,available,5.38,51.95,high,low,5,spaceship,,,28/09/2026 12:23
 d8cac743-af0f-4cd4-9c95-884992abdc89,oldenburg.pizza,available,5.38,51.95,medium,low,9,spaceship,,,29/09/2026 06:22
 37941a45-8f42-47f7-9d44-8f823db7399e,blather.pizza,available,5.98,83.98,medium,low,7,namecheap,,,24/09/2026 04:46
+5c0a44bd-098c-4020-a3a7-3903286b5e50,definitions.pizza,available,17.99,64.99,medium,low,11,namesilo,,,01/10/2026 16:52
 11bdc22e-1b42-4c49-9cd6-2f1ecdaebb6d,rippled.pizza,available,5.98,83.98,medium,low,7,namecheap,,,13/08/2026 06:53
 1d019d4b-75f4-43e5-92c2-7f343f3767ff,shopworn.pizza,available,5.98,83.98,low,low,8,namecheap,,,08/08/2026 11:06
 d45a4eb2-00d9-44ce-a67d-73f65acba253,mundane.pizza,available,5.98,83.98,high,low,7,namecheap,,,17/08/2026 14:55
@@ -192,6 +198,7 @@ f819f197-0120-4858-9941-09f3d033f7ca,wad.pizza,available,5.98,83.98,high,low,3,n
 7e62796c-4893-4f84-95d5-80efca481425,generations.pizza,available,5.98,83.98,medium,low,11,namecheap,,,17/09/2026 19:20
 4b51f38a-daa2-4506-b447-22cb8c4e68d2,plodding.pizza,available,5.98,83.98,medium,low,8,namecheap,,,08/09/2026 21:17
 ceaae49e-1f10-495b-8d1e-4d0f292d14bc,lash.pizza,available,5.98,83.98,high,low,4,namecheap,,,30/09/2026 17:16
+0b32cc82-4e41-4864-9dd8-27c08e6d3fc1,gras.pizza,available,17.99,64.99,medium,low,4,namesilo,,,01/10/2026 16:24
 8154934f-8229-4dd6-abaa-917c0944c9b7,cimarron.pizza,available,17.99,64.99,high,low,8,namesilo,,,23/09/2026 15:12
 90d488a0-8471-445e-ac4e-df0af3644223,trends.pizza,available,5.98,83.98,high,low,6,namecheap,,,17/09/2026 19:12
 cc49a085-97bf-4dd7-9516-a665fd58484e,zygoma.pizza,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 03:03
@@ -208,9 +215,10 @@ b4dfe3fc-47b5-4d9e-a2de-21f3c7b8ee5d,garza.pizza,available,10.81,52.01,medium,lo
 b9cea9a4-68f3-474b-b10c-12eff8f3bff4,flush.pizza,available,5.98,83.98,high,low,5,namecheap,,,
 a37d0591-c26f-4c11-a71d-bcaebd1dab90,longing.pizza,available,5.38,51.95,medium,low,7,spaceship,,,28/09/2026 19:43
 09213f66-881d-46cd-9c9b-b65ca2fa0300,bursting.pizza,available,17.99,64.99,high,low,8,namesilo,,,30/09/2026 12:02
-888d4736-1b62-4eaa-a073-c8f4cd3a6782,enjoyment.pizza,available,17,,high,low,9,unstoppable,,,28/09/2026 02:34
+888d4736-1b62-4eaa-a073-c8f4cd3a6782,enjoyment.pizza,available,17,,high,low,9,unstoppable,,,01/10/2026 11:07
 691b1324-4f66-4b22-a378-166e2cea8f7d,rant.pizza,available,17.99,64.99,high,low,4,namesilo,,,24/09/2026 03:37
 25b7abaf-d616-4279-92a4-63f97181b086,abbey.pizza,available,17.99,64.99,high,low,5,namesilo,,,16/09/2026 14:25
+08028372-db1d-4997-9283-47ce8caf9bc6,jekyll.pizza,available,17.99,64.99,medium,low,6,namesilo,,,02/10/2026 01:06
 e746eb6d-44ea-405e-a31a-3bf978a4ea0d,sloe.pizza,available,5.98,83.98,medium,low,4,namecheap,,,18/09/2026 10:21
 b8fda2f4-0488-4537-8f0d-5e1b2c169e82,transcript.pizza,available,17.99,64.99,high,low,10,namesilo,,,25/09/2026 22:18
 fde7d8dd-348d-47f6-a9d8-51010bdbfb47,had.pizza,available,19.99,,high,low,3,name.com,,,
@@ -246,6 +254,7 @@ dba304ba-5a8c-4f99-afa9-6a76d9519ae6,crafty.pizza,available,17.99,64.99,high,low
 78f67de2-1495-4d83-93de-cd3988d29317,bedspread.pizza,available,17.99,64.99,high,low,9,namesilo,,,22/09/2026 22:52
 3eff012c-3ac4-4e7f-8b33-ad1436553020,sternberg.pizza,available,10.81,52.01,medium,low,9,porkbun,,,29/09/2026 15:45
 65c72dd9-c2c8-490b-822a-fd8cf25fd5e6,gladys.pizza,available,17.99,64.99,medium,low,6,namesilo,,,26/09/2026 03:41
+c3a96306-a54c-41c0-bbaf-e860013133f1,cite.pizza,available,17,,high,low,4,unstoppable,,,01/10/2026 18:58
 2b9c5e0a-3345-42bb-a591-676fd203d803,darken.pizza,available,17,,high,low,6,unstoppable,,,30/09/2026 18:19
 3b699481-78c3-4fc4-8c08-10fbfa563014,painful.pizza,available,5.98,83.98,high,low,7,namecheap,,,
 ff579df7-e7e6-4433-951c-64b19bf06504,masquerade.pizza,available,17.99,64.99,high,low,10,namesilo,,,30/09/2026 17:17
@@ -264,6 +273,7 @@ a4a7a876-c1bb-4123-afd5-aa01ebf9caa5,electron.pizza,available,17.99,64.99,high,l
 6b36e732-9406-464b-890c-595720d7aa10,playback.pizza,available,17,,high,low,8,unstoppable,,,29/09/2026 13:42
 6755888d-a6e4-4f75-9d3e-6e2f7c5c3315,ire.pizza,premium,118.8,118.8,medium,low,3,namesilo,,,19/09/2026 06:05
 b2b29c94-873d-414d-bd58-edccf85fe7f8,baud.pizza,available,17.99,64.99,medium,low,4,namesilo,,,22/09/2026 16:32
+f01fd27c-785b-45de-9062-05d63497afb3,existential.pizza,available,50.2,50.2,high,low,11,cloudflare,,,01/10/2026 22:23
 f2c3082a-7070-4900-b6c1-f45345a67a94,jubilee.pizza,available,17,,high,low,7,unstoppable,,,30/09/2026 17:45
 3f2beb5d-110f-4f05-870d-caf988c7734e,fugal.pizza,available,5.98,83.98,medium,low,5,namecheap,,,18/08/2026 17:38
 358c9549-aea1-4f95-8498-d4dc2ae50828,filter.pizza,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 00:06
@@ -285,16 +295,18 @@ c9a0ed73-6c18-45c6-a67e-5f23ef646e36,partition.pizza,available,17.99,64.99,high,
 8f79d3ca-ecc2-4982-bdd7-c957298452c9,cuts.pizza,available,17.99,64.99,high,low,4,namesilo,,,19/09/2026 00:14
 6e0db7c1-e4b0-4575-b73b-b5e1d5235035,untried.pizza,available,5.98,83.98,medium,low,7,namecheap,,,12/09/2026 21:15
 1f0afa96-0314-4f23-a077-76e4598af1e4,wedded.pizza,available,5.98,83.98,high,low,6,namecheap,,,13/09/2026 09:30
-a7fbe92c-5001-474d-b95a-f26f1634cfc1,lipstick.pizza,available,5.98,83.98,high,low,8,namecheap,,,28/09/2026 02:36
+a7fbe92c-5001-474d-b95a-f26f1634cfc1,lipstick.pizza,available,50.2,50.2,high,low,8,cloudflare,,,02/10/2026 05:27
 78dc769f-4d77-4b4a-bfeb-12a1a138e82c,barbecued.pizza,available,5.98,83.98,high,low,9,namecheap,,,08/08/2026 16:25
 ab51a603-920f-434e-a4ac-210118584fa2,petrarch.pizza,available,17.99,64.99,medium,low,8,namesilo,,,01/10/2026 02:14
 91b007a0-69f3-47ad-9bbf-7a4b898b4f06,sandusky.pizza,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 22:26
 59885020-da3f-4412-bfc5-29e4c4c939e9,chief.pizza,available,17.99,64.99,high,low,5,namesilo,,,23/09/2026 00:59
 bb1d2ac0-ff22-4386-9c3b-4e87025c9ca0,rocambole.pizza,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 11:33
 8168e389-5541-4690-9c8a-c5880f671bc7,reborn.pizza,available,5.98,83.98,high,low,6,namecheap,,,10/08/2026 20:11
-40eeef45-25a4-4778-92dc-25b0bbecd4a8,schooling.pizza,available,5.38,51.95,high,low,9,spaceship,,,28/09/2026 02:34
+40eeef45-25a4-4778-92dc-25b0bbecd4a8,schooling.pizza,available,5.98,83.98,high,low,9,namecheap,,,01/10/2026 11:01
+53fa5246-5240-44eb-9c05-79f76a319f2f,adapting.pizza,available,17.99,64.99,medium,low,8,namesilo,,,02/10/2026 01:43
 10593982-5109-4d0b-b7b9-fbbae1dfd57f,hipaa.pizza,available,19.99,,medium,low,5,name.com,,,
 7f5fbba1-cf27-4591-8a35-eff8c6277624,exergonic.pizza,available,5.98,83.98,medium,low,9,namecheap,,,17/08/2026 17:06
+5f102dd2-f588-484e-b002-32c63a30ac6c,motherfukkah.pizza,available,17.99,64.99,medium,low,12,namesilo,,,02/10/2026 05:04
 915df1a2-c37b-46da-a81c-58d5fcdd584e,heroin.pizza,available,17.99,64.99,medium,low,6,namesilo,,,24/09/2026 22:03
 f941f34e-92a6-44b4-9f2a-f3d605181c6f,entering.pizza,available,5.98,83.98,high,low,8,namecheap,,,22/08/2026 01:48
 2cacdc32-9366-45e9-9555-3c33a769808a,lightwood.pizza,available,5.98,83.98,medium,low,9,namecheap,,,16/09/2026 20:15
@@ -324,12 +336,19 @@ e7b00dd7-1a57-400d-9a84-edd59ad163f3,wriggly.pizza,available,5.98,83.98,medium,l
 424cf06b-de84-4746-a922-f86a03a30e1c,equation.pizza,available,5.38,51.95,high,low,8,spaceship,,,28/09/2026 19:06
 d165354b-385c-4f47-9d8d-c18aad5f44e7,contour.pizza,available,17.99,64.99,high,low,7,namesilo,,,24/09/2026 17:43
 a7715341-4724-4007-9f6b-2a7cfb9809e6,proust.pizza,available,17,,medium,low,6,unstoppable,,,30/09/2026 17:59
+bf241772-811c-44a6-be6d-eed617801f11,outlines.pizza,available,17,,medium,low,8,unstoppable,,,02/10/2026 03:08
 06b8ef6b-539b-4d3b-a4d7-eae4628db5d1,grubby.pizza,available,5.98,83.98,medium,low,6,namecheap,,,09/08/2026 09:31
 540a6648-78f9-4c6e-98fe-3ad2056d4d30,seductive.pizza,available,5.98,83.98,high,low,9,namecheap,,,10/09/2026 01:39
 b95db86d-716a-4961-9524-5100e985dd87,unsecured.pizza,available,5.98,83.98,medium,low,9,namecheap,,,12/09/2026 01:41
 44a0743b-f5b7-4c19-bfd1-99979d3b84fd,satirical.pizza,available,5.98,83.98,medium,low,9,namecheap,,,09/09/2026 21:49
+4552405a-f7c1-4289-b02c-010eec4f2190,embarked.pizza,available,17,,medium,low,8,unstoppable,,,02/10/2026 02:37
+32f4172e-9f58-408e-899c-9917fe6f98a7,slr.pizza,premium,102.67,102.67,high,low,3,spaceship,,,02/10/2026 02:08
 be23697b-8663-4767-93b0-1410a5bf3200,barefooted.pizza,available,5.98,83.98,medium,low,10,namecheap,,,08/08/2026 18:59
 aca09702-2f52-4df5-9237-3a9f65278d62,arginine.pizza,available,17.99,64.99,medium,low,8,namesilo,,,20/09/2026 04:24
+a07545ab-2d18-481f-ad47-5208c3fecc05,booths.pizza,available,5.38,51.95,medium,low,6,spaceship,,,01/10/2026 18:37
+042b83e5-0cc0-4513-9b63-f4d692c7156f,antiquities.pizza,available,17.99,64.99,medium,low,11,namesilo,,,02/10/2026 01:45
+38ed1fa6-8761-48f2-81b3-3bc6ebb85c3e,ist.pizza,premium,,,high,low,3,,,,01/10/2026 22:27
+c7c839f6-a415-4f86-adf5-80a448fc03ae,fitzwilliam.pizza,available,17.99,64.99,medium,low,11,namesilo,,,01/10/2026 10:32
 8d1f680b-2505-4431-bd45-a9d845c84cca,sabotage.pizza,available,10.92,53.72,medium,low,8,dynadot,,,28/09/2026 13:47
 46de8a79-89c1-4d3b-9d73-32fb783cdb97,mussolini.pizza,available,17.99,64.99,medium,low,9,namesilo,,,23/09/2026 08:12
 33d2f0e0-d092-4753-a0ff-f9c8b3883b9a,vertex.pizza,available,17.99,64.99,high,low,6,namesilo,,,19/09/2026 16:44
@@ -361,6 +380,7 @@ a37a9430-91f2-40f4-b47f-08d7a60baf3a,advancing.pizza,available,5.98,83.98,high,l
 db5f7702-0a26-4414-8724-5cea8f3c7f68,bagful.pizza,available,5.98,83.98,medium,low,6,namecheap,,,21/09/2026 17:57
 fd3f0fa3-5cde-4ee1-906c-5511fd9dea47,hiroshi.pizza,available,17,,medium,low,7,unstoppable,,,29/09/2026 15:38
 8f0f0e0c-5e1f-4207-a981-46b9091b6027,altered.pizza,available,5.98,83.98,high,low,7,namecheap,,,
+a485a852-7b60-4ffa-ae8a-5f7298bc8c93,schell.pizza,available,17.99,64.99,medium,low,6,namesilo,,,02/10/2026 00:38
 5431a0dd-e373-47f8-9c9c-dd919eddfa3a,kidding.pizza,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 03:02
 55596455-e127-4216-a73e-a6db712d33bb,writer.pizza,available,17.99,64.99,high,low,6,namesilo,,,21/09/2026 05:09
 201664c7-7f3b-4c28-bb0c-64c24f20917b,macabre.pizza,available,5.98,83.98,medium,low,7,namecheap,,,18/08/2026 23:19
@@ -377,12 +397,14 @@ d36f39bd-feb6-4c55-8c29-15be4d5fde2b,konrad.pizza,available,17.99,64.99,medium,l
 9b6988a8-6643-47ec-b847-280c67a77898,scatty.pizza,available,5.98,83.98,medium,low,6,namecheap,,,
 48c97d14-d39a-40e1-805d-1bb847cbccd5,arrested.pizza,available,5.98,83.98,medium,low,8,namecheap,,,17/09/2026 20:22
 e548d722-a4b2-4878-b6dd-7b6b0d490cb0,feast.pizza,available,17.99,64.99,high,low,5,namesilo,,,22/09/2026 03:01
+5e77dd90-46c0-4866-8795-bfcec3b27036,distributing.pizza,available,5.38,51.95,medium,low,12,spaceship,,,01/10/2026 15:49
 f7bbe5da-b435-4ed1-922f-71e7228f7796,sombre.pizza,available,5.98,83.98,medium,low,6,namecheap,,,10/09/2026 14:02
 33abc645-a045-4b6f-90e4-b28ce5704c79,burnley.pizza,premium,68.51,68.51,medium,low,7,spaceship,,,29/09/2026 15:51
 671285d4-dad2-48e0-a888-91ea6445d887,rests.pizza,available,17.99,64.99,medium,low,5,namesilo,,,18/09/2026 07:14
 84d2ec92-7264-43ba-88a8-3946d0b1c578,condolence.pizza,available,17.99,64.99,high,low,10,namesilo,,,29/09/2026 10:42
 b6dbff95-19f8-4c69-9a37-fd2ea0f1b5c9,arioso.pizza,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 05:35
 93f485a6-b095-4d1f-89ff-c52577b8f2f9,sauna.pizza,available,17.99,64.99,high,low,5,namesilo,,,30/09/2026 10:38
+ce846d6f-134e-47d4-9f38-b962f996b84d,niigata.pizza,available,17,,medium,low,7,unstoppable,,,02/10/2026 00:28
 da8aa000-3ed9-4ac0-983c-c68b8401321d,wisconsin.pizza,premium,242,242,high,low,9,namesilo,,,21/09/2026 17:10
 84061a1e-c4f6-48bf-8ea2-456bb1ad90ff,staffordshire.pizza,available,17.99,64.99,medium,low,13,namesilo,,,28/09/2026 11:53
 5fefe1b0-d6e7-4ae7-a82b-afb0c93d1506,clever.pizza,available,17.99,64.99,high,medium,6,namesilo,,,23/09/2026 12:20
@@ -436,8 +458,12 @@ ab6d3589-44a6-4e7b-9cbe-9579147f87e9,tramway.pizza,available,17.99,64.99,high,lo
 a31d4895-eaf3-4f2f-a787-86be9a14440a,avalon.pizza,available,5.38,51.95,high,medium,6,spaceship,,,30/09/2026 05:08
 708015d4-d1e4-4f06-b32e-fa55a328c7d0,blatant.pizza,available,5.98,83.98,medium,low,7,namecheap,,,10/08/2026 13:31
 57a28ec4-d468-4493-8992-6ccacdbcd1fd,cornelius.pizza,available,17.99,64.99,high,low,9,namesilo,,,25/09/2026 15:10
+6321b9bb-3105-435e-85f8-70593bf462b4,circa.pizza,available,5.38,51.95,high,low,5,spaceship,,,01/10/2026 22:24
 62f325f2-5895-4de8-91cf-339cc5848b9a,compliment.pizza,available,17.99,64.99,high,low,10,namesilo,,,24/09/2026 16:50
+be3639b2-a5d3-4aa2-b79a-13a6bb589e03,aloysius.pizza,available,17.99,64.99,high,low,8,namesilo,,,01/10/2026 08:41
 a3ccb221-f337-4f09-9ae0-b133500c117f,employable.pizza,available,5.98,83.98,high,low,10,namecheap,,,16/08/2026 18:22
+103b84bb-5cd7-4c8e-a116-81bcb56e52ba,mcwilliams.pizza,available,5.38,51.95,medium,low,10,spaceship,,,02/10/2026 01:12
+fe134a99-bcbc-42de-a522-9daa647af2ac,vlad.pizza,available,17,,high,low,4,unstoppable,,,02/10/2026 00:50
 9c9fe765-d2b6-48c5-935c-9a718be3baa3,pleading.pizza,available,5.98,83.98,medium,low,8,namecheap,,,09/08/2026 15:21
 79c8bf00-64bd-4909-adf0-37b0c2183d79,cattie.pizza,available,5.98,83.98,medium,low,6,namecheap,,,11/08/2026 22:14
 da1ab5dd-f333-46e5-b8d4-5bd474a02f44,combine.pizza,available,10.92,53.72,medium,low,7,dynadot,,,28/09/2026 13:39
@@ -479,6 +505,7 @@ ae2cb47f-f802-4435-bc0a-a89c2144c4fa,grid.pizza,available,5.98,83.98,high,medium
 5cc633bf-792d-414e-9fb4-c9efc352e9c7,khyber.pizza,available,5.38,51.95,medium,low,6,spaceship,,,01/10/2026 04:47
 92351ae8-3e82-461f-8114-92e505f001c5,willamette.pizza,available,17.99,64.99,medium,low,10,namesilo,,,27/09/2026 16:20
 7667a558-5cfa-4c4f-8c28-4828e6680716,puzzlement.pizza,available,17.99,64.99,medium,low,10,namesilo,,,21/09/2026 17:39
+88e2dd77-99c3-4fbb-8491-9bfe6df48507,leesburg.pizza,available,17.99,64.99,medium,low,8,namesilo,,,02/10/2026 00:14
 dbc401db-36e4-46f3-94ab-ec93e3545ec3,portray.pizza,available,50.2,50.2,high,low,7,cloudflare,,,30/09/2026 11:22
 2b8fecbe-1e7a-42e6-882f-69e90e6a6aef,unselected.pizza,available,5.98,83.98,medium,low,10,namecheap,,,12/09/2026 19:14
 f4e60891-6fc5-4466-87c6-3c501acc4142,valladolid.pizza,available,17.99,64.99,medium,low,10,namesilo,,,29/09/2026 22:02
@@ -492,6 +519,7 @@ f5aa853c-0c2a-482b-8280-1335d97a3876,banding.pizza,available,17.99,64.99,high,lo
 ab306aa3-ab27-40b3-9616-8f4a4609f206,penal.pizza,available,5.98,83.98,medium,low,5,namecheap,,,08/09/2026 13:51
 79d1851c-86e5-4cc0-98e5-1738be8ee603,globular.pizza,available,5.98,83.98,high,low,8,namecheap,,,08/08/2026 10:06
 b6d307f6-0208-4d64-a40f-48f70acefe59,bonnily.pizza,available,5.98,83.98,medium,low,7,namecheap,,,14/09/2026 01:04
+53bc7463-9ce3-485f-ae5d-576f547bf24c,mato.pizza,available,17,,medium,low,4,unstoppable,,,01/10/2026 07:56
 f4ca3ccb-1e30-4852-bfec-59241ffaa37c,policies.pizza,available,5.98,83.98,medium,low,8,namecheap,,,04/09/2026 07:55
 7dde833e-b847-4021-a510-af9674859c75,bacterial.pizza,available,17.99,64.99,high,low,9,namesilo,,,22/09/2026 16:00
 3a33c69c-8675-4e45-b7c1-fdf3dc23f051,corsican.pizza,available,5.98,83.98,high,low,8,namecheap,,,13/08/2026 02:33
@@ -521,6 +549,7 @@ e2de83b5-0164-4710-8cb7-6ec6cecc754d,autumnal.pizza,available,5.98,83.98,medium,
 2a910ce2-31e9-455f-83b4-971c7648232b,packs.pizza,available,5.98,83.98,medium,low,5,namecheap,,,20/09/2026 13:29
 76131c9e-ea5c-4da7-85e6-fdd55247578a,analphabet.pizza,available,5.98,83.98,medium,low,10,namecheap,,,
 b099d3b4-ec2e-4723-aa17-c135471bfee8,lsd.pizza,available,17,,high,low,3,unstoppable,,,28/09/2026 06:12
+1334d7e1-c12a-47b4-b002-c3f2413ef053,combs.pizza,available,5.38,51.95,high,low,5,spaceship,,,02/10/2026 00:48
 d11a8487-4e07-4fc9-9e70-fb54d9197f59,eleanor.pizza,available,5.38,51.95,high,low,7,spaceship,,,28/09/2026 03:53
 c11a0937-c7a1-4028-bd5f-ff0b677a28b9,replied.pizza,available,5.98,83.98,medium,low,7,namecheap,,,18/09/2026 01:09
 727c5af7-30ca-478f-aebf-a8bb2efc2ae8,trim.pizza,available,5.98,83.98,high,low,4,namecheap,,,12/08/2026 10:14
@@ -535,6 +564,7 @@ da0390a1-97d2-46f5-9b43-2699a6661f4b,entirety.pizza,available,17,,high,low,8,uns
 e2fe133e-d41e-4f35-b465-48eeaa248891,moby.pizza,available,17.99,64.99,medium,low,4,namesilo,,,30/09/2026 04:05
 96575603-36db-41a2-ab13-48f9b982bd3c,abridger.pizza,available,17.99,64.99,medium,low,8,namesilo,,,16/09/2026 14:35
 55885311-04f7-4864-b1fd-91394a6853be,pert.pizza,available,5.98,83.98,high,low,4,namecheap,,,21/08/2026 22:15
+e34ddc07-8945-4584-a6ad-13af58527836,straps.pizza,available,5.98,83.98,medium,low,6,namecheap,,,01/10/2026 14:01
 615a1eb4-85a2-4da1-b24f-c329c9d303a0,auroral.pizza,available,5.98,83.98,medium,low,7,namecheap,,,22/09/2026 13:08
 81d79407-071c-4785-89fa-45a7bc5872d3,brightness.pizza,available,5.38,51.95,high,low,10,spaceship,,,29/09/2026 04:19
 bb93728d-b931-4e16-a5c2-89b4417167b2,acropetal.pizza,available,5.98,83.98,medium,low,9,namecheap,,,
@@ -552,6 +582,7 @@ b4e23e85-707e-43a1-8cb8-13502cd33c2a,tuscany.pizza,available,5.38,51.95,high,low
 d8214111-1310-43cf-a0f0-115f5d5291b9,bastards.pizza,available,17.99,64.99,medium,low,8,namesilo,,,29/09/2026 11:17
 5fbff020-e0be-4bf8-9278-ba0016062baf,meat.pizza,available,5.98,83.98,high,low,4,namecheap,,,14/09/2026 23:51
 6b207cb2-fa26-4451-bafe-1d2b08d1ec97,counselling.pizza,available,17.99,64.99,high,low,11,namesilo,,,17/09/2026 12:13
+ca835b31-3314-48d2-8b88-60ca0b673869,smoother.pizza,available,17,,medium,low,8,unstoppable,,,02/10/2026 04:38
 ff361457-c954-4147-8323-84639b7f24ba,copesetic.pizza,available,5.98,83.98,medium,low,9,namecheap,,,13/08/2026 00:22
 9ac90b24-9ad8-4b15-808a-eb38ea5010fb,primary.pizza,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 05:41
 959e6169-05fc-4a16-9f33-490335c0e919,corrosive.pizza,available,5.98,83.98,medium,low,9,namecheap,,,13/08/2026 02:07
@@ -571,7 +602,9 @@ d741f852-33b3-4491-b3d9-9841cb3c5512,pelvic.pizza,available,5.98,83.98,high,low,
 52f335ed-ba69-418a-a0b8-f915e40a761e,feldman.pizza,available,5.38,51.95,medium,low,7,spaceship,,,27/09/2026 20:17
 7147c0da-faf7-4cef-b42a-1c8a9a3ffb99,northbound.pizza,available,5.98,83.98,high,low,10,namecheap,,,03/09/2026 21:29
 ed51dd64-ba3c-48df-988f-f0ac0357f539,animus.pizza,available,17.99,64.99,medium,low,6,namesilo,,,19/09/2026 09:22
+7e6ec29a-046e-4c04-8fef-682bad87808b,pma.pizza,available,17.99,64.99,high,low,3,namesilo,,,01/10/2026 23:33
 2897bfaf-2b51-45fe-858b-4e8154734b6d,horary.pizza,available,5.98,83.98,medium,low,6,namecheap,,,21/08/2026 13:58
+9f8c3136-49ab-40a1-81e8-8fefccdd73f4,ignores.pizza,available,5.38,51.95,low,low,7,spaceship,,,02/10/2026 03:56
 7c805c51-8b16-4baf-8ced-baf12af712bd,assonance.pizza,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 16:32
 24238f8c-c191-409d-9595-c061734ed143,prudence.pizza,available,5.38,51.95,high,low,8,spaceship,,,30/09/2026 16:43
 7018e922-374a-44ec-ae2c-56e33a9e8fb5,permits.pizza,available,17,,medium,low,7,unstoppable,,,28/09/2026 23:51
@@ -580,6 +613,7 @@ bfadcdea-f3fa-40fb-92a5-a865fd2151b2,colleges.pizza,available,17,,medium,low,8,u
 7d2593f7-fb01-4774-a056-a1173535b8a0,feminist.pizza,available,5.98,83.98,high,low,8,namecheap,,,18/08/2026 01:02
 0fe1078d-f1e2-4bc0-b6dd-17bba32d37d0,worded.pizza,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 15:04
 3142ae5c-b283-4641-b339-3378366d12b7,scam.pizza,available,5.98,83.98,high,low,4,namecheap,,,14/09/2026 08:03
+64a2b6a7-f769-4994-b8ca-9541181ab4a2,maidstone.pizza,available,5.38,51.95,medium,low,9,spaceship,,,01/10/2026 08:27
 5f27dc50-4055-43f0-8442-c7b774592c1f,rapist.pizza,available,50.2,50.2,high,low,6,cloudflare,,,30/09/2026 10:57
 79002a8b-7398-4867-8607-e32ba740c98d,nonskid.pizza,available,5.98,83.98,medium,low,7,namecheap,,,03/09/2026 20:36
 2083ae76-8b34-4ea3-bac1-2a1cd8bc5aa5,styles.pizza,available,5.38,51.95,high,low,6,spaceship,,,28/09/2026 22:23
@@ -617,7 +651,7 @@ b969e9fd-3077-4ad5-9dce-b3badec5eb94,appetizing.pizza,available,5.98,83.98,high,
 2802a44d-323a-4ac3-ab15-24b78b70a284,matey.pizza,available,5.98,83.98,medium,low,5,namecheap,,,12/08/2026 07:40
 d3f33ba0-da31-46d8-9fe1-5e40d6d312ac,rending.pizza,available,5.98,83.98,medium,low,7,namecheap,,,09/09/2026 13:57
 78569761-288d-4dd6-9bb9-b090b05f9d21,unsold.pizza,available,5.98,83.98,medium,low,6,namecheap,,,12/09/2026 20:17
-1dcab5d5-877a-462e-abaf-10fc716b7c35,storyteller.pizza,available,19.99,,high,low,11,name.com,,,
+1dcab5d5-877a-462e-abaf-10fc716b7c35,storyteller.pizza,available,17,,high,low,11,unstoppable,,,01/10/2026 22:37
 c22f1340-9c0e-444e-b50b-e161d3d7cba8,intimidate.pizza,available,5.38,51.95,high,low,10,spaceship,,,29/09/2026 20:44
 c368a259-b3ee-4ab5-b804-f2b3a6007ceb,accredited.pizza,available,17.99,64.99,high,low,10,namesilo,,,21/09/2026 15:54
 a14f6509-10ba-48d3-b5c6-f7df938d3fae,innately.pizza,available,5.98,83.98,medium,low,8,namecheap,,,15/09/2026 08:27
@@ -634,17 +668,21 @@ f3f7347e-1d38-46b0-8333-74347b5d0944,chilly.pizza,available,5.98,83.98,high,low,
 59061874-c872-4aa0-a780-36fc5563950b,varicella.pizza,available,5.98,83.98,medium,low,9,namecheap,,,24/09/2026 14:29
 3bf46740-32aa-433f-9822-3cc6400f3435,chock.pizza,available,5.98,83.98,medium,low,5,namecheap,,,14/09/2026 06:47
 3fafa895-13be-4bee-8f06-ae96779bfd2b,copper.pizza,available,17.99,64.99,high,low,6,namesilo,,,20/09/2026 22:44
+3a5bae2f-226c-4fc0-95a1-b9808273adf4,coached.pizza,available,17.99,64.99,medium,low,7,namesilo,,,02/10/2026 03:59
 aa3694e0-1f40-434a-af20-7d73584afc7d,converting.pizza,available,17.99,64.99,medium,low,10,namesilo,,,29/09/2026 23:06
+2d9c92ff-1d2f-4473-8790-dcb9ceffac80,cardwell.pizza,available,17.99,64.99,high,low,8,namesilo,,,02/10/2026 00:42
 29f5abf0-a219-4ef9-b77f-cb5d215d554d,aus.pizza,premium,102.67,102.67,high,low,3,spaceship,,,27/09/2026 18:53
 3eb0e626-8476-40c9-adbc-525ee0fab63e,solving.pizza,available,10.81,52.01,high,low,7,porkbun,,,29/09/2026 02:13
 7f2df06c-d82d-475e-8e03-343f2614b1cb,mckinley.pizza,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 04:51
 f0c8a109-d3e2-44ec-8306-dde5ab9dd28b,onionskin.pizza,available,5.98,83.98,medium,low,9,namecheap,,,18/08/2026 08:17
 421d90fd-f40c-4b9d-bbd6-11ddcecb151d,kristin.pizza,available,5.38,51.95,medium,low,7,spaceship,,,29/09/2026 03:57
+5ca935d3-969c-482c-8146-3a663c44209e,thales.pizza,available,5.38,51.95,high,low,6,spaceship,,,01/10/2026 21:55
 7d0e9a52-af7a-4aa2-8491-a7094e38b74a,extraneous.pizza,available,5.98,83.98,medium,low,10,namecheap,,,17/08/2026 19:20
 ea6d6ddd-37ca-4d93-8ee9-ecaaabf6a5d3,scrutinise.pizza,available,19.99,84.99,medium,low,10,name.com,,,21/09/2026 03:07
 e4421234-5d7e-4ec1-a3f2-6e506333e605,bambusa.pizza,available,17.99,64.99,medium,low,7,namesilo,,,22/09/2026 00:41
 9443f344-1160-4f0a-bf5c-4715d0f159e4,wickedly.pizza,available,5.98,83.98,medium,low,8,namecheap,,,14/09/2026 16:40
 dd4a7e5b-1282-4c5d-bef8-95fec93992ab,meg.pizza,premium,78.54,78.54,high,low,3,namesilo,,,24/08/2026 23:20
+89cdf3aa-b6b0-435d-b519-4d650f57b9a1,cme.pizza,available,5.38,51.95,high,low,3,spaceship,,,01/10/2026 23:50
 d975c9a2-1dd3-41fb-a8d8-1bbe8543342a,buddhist.pizza,available,5.98,83.98,high,low,8,namecheap,,,11/08/2026 07:39
 ebfd8427-8f71-43e3-8c27-935dc4363973,broadway.pizza,premium,118.8,118.8,high,low,8,namesilo,,,24/09/2026 10:38
 00414021-4a72-4143-9d1e-f481c1c3ee38,grinning.pizza,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 23:14
@@ -659,6 +697,7 @@ dee80944-d645-4dba-909e-010262aefbd5,disposal.pizza,available,17.99,64.99,high,l
 8523a9b3-a1e2-4bbb-81da-fdbd9fa44374,showers.pizza,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 23:39
 a41ad713-c01e-4e18-896e-15e013af4167,curved.pizza,available,5.98,83.98,high,low,6,namecheap,,,13/08/2026 11:47
 f015f36b-56f0-43c0-b72f-ab274f8e4da0,tannish.pizza,available,5.98,83.98,medium,low,7,namecheap,,,11/09/2026 08:03
+eedef960-d378-46a7-92d4-9d766d3e1790,birkenhead.pizza,premium,78.54,78.54,medium,low,10,namesilo,,,01/10/2026 08:22
 133fc98a-c9d3-4afa-899a-eb8dbf582f84,doable.pizza,available,17.99,64.99,high,low,6,namesilo,,,21/09/2026 15:46
 eec6fc15-d2d0-46d0-a7ea-265fbffa9137,frustrate.pizza,available,17.99,64.99,medium,low,9,namesilo,,,24/09/2026 12:25
 0aaaff83-cf3c-4f61-addd-ef3568ce797f,knocker.pizza,available,17.99,64.99,medium,low,7,namesilo,,,24/09/2026 22:02
@@ -669,7 +708,8 @@ c9de52f7-6b51-4a05-9462-246cc1b603bd,cowardice.pizza,available,5.98,83.98,medium
 b6113f72-9ebf-4516-b435-63b64bc1b539,ejection.pizza,available,50.2,50.2,medium,low,8,cloudflare,,,01/10/2026 01:50
 dcee2c3d-3d52-41a0-a1d5-ed38008d82d7,wisely.pizza,available,5.98,83.98,high,low,6,namecheap,,,16/09/2026 00:29
 b31f64f3-5e2d-48ac-97d7-e3822c3f429c,crash.pizza,available,17.99,64.99,high,low,5,namesilo,,,29/09/2026 09:51
-6cdc1ead-599e-4fc0-b231-d8adf1833cc8,screens.pizza,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 07:05
+d6ff6544-968c-41c7-b7df-f0b4dc12b31e,dalian.pizza,premium,102.67,102.67,high,low,6,spaceship,,,01/10/2026 19:10
+6cdc1ead-599e-4fc0-b231-d8adf1833cc8,screens.pizza,available,5.38,51.95,medium,low,7,spaceship,,,01/10/2026 17:23
 d9a6d9fc-4559-4fc7-981d-d9ae47186246,bodacious.pizza,available,5.98,83.98,high,low,9,namecheap,,,10/08/2026 16:42
 80fd7274-ac1f-4a56-8a24-8808eff9099f,pledged.pizza,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 04:12
 8b5167d9-ae64-4789-924b-d75eb02ca08d,outlet.pizza,available,5.38,51.95,high,low,6,spaceship,,,29/09/2026 17:56
@@ -688,6 +728,7 @@ bac4c891-ef98-4e22-aa9d-d68dd496fa14,majority.pizza,available,17.99,64.99,high,l
 8a557d84-67a4-492e-bf52-be0dcacc8237,antoine.pizza,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 14:52
 21abae82-2325-4e34-a64a-651ddabc88f7,reviews.pizza,premium,242,242,medium,low,7,namesilo,,,28/09/2026 23:12
 99a3d95f-7931-4d40-85f4-5cccd2cd69d7,hierarchy.pizza,available,50.2,50.2,high,low,9,cloudflare,,,30/09/2026 10:07
+928323d0-3717-4c1c-a108-26ab1deb5814,concepcion.pizza,available,5.98,83.98,medium,low,10,namecheap,,,02/10/2026 04:26
 01bd9315-661b-4f11-91d2-25bd8bdd59b5,cyclosis.pizza,available,5.98,83.98,medium,low,8,namecheap,,,10/09/2026 22:24
 7dc64bb4-330a-41c2-ad88-f3196c9b6a6c,clothes.pizza,available,17.99,64.99,high,low,7,namesilo,,,28/09/2026 21:50
 7e495caa-07a4-45dc-895a-20f35d594834,adopt.pizza,available,17.99,64.99,high,low,5,namesilo,,,28/09/2026 03:18
@@ -702,9 +743,11 @@ bac4c891-ef98-4e22-aa9d-d68dd496fa14,majority.pizza,available,17.99,64.99,high,l
 16ba119c-8e52-4267-b456-37973d71f41b,arithmetic.pizza,available,10.92,53.72,high,low,10,dynadot,,,29/09/2026 07:54
 2170ce63-33ec-48c7-9944-1c8aafcd2e4d,shear.pizza,available,10.92,53.72,medium,low,5,dynadot,,,30/09/2026 11:04
 b70b3937-c29e-4386-bf17-57302e5e26fb,hurrying.pizza,available,5.98,83.98,medium,low,8,namecheap,,,21/08/2026 15:47
+947ddf1b-cf12-4872-916e-cb92151398d5,supermarkets.pizza,available,10.81,52.01,medium,low,12,porkbun,,,02/10/2026 03:57
 3fbf58f1-3d8b-4b22-8550-ed4ff31fd34d,gerard.pizza,available,17.99,64.99,medium,low,6,namesilo,,,25/09/2026 13:17
 ecfdb915-aea2-4c4f-bb7c-03c0c6e6bc93,sisterly.pizza,available,5.98,83.98,high,low,8,namecheap,,,10/09/2026 08:52
 25baee85-5521-4eeb-ba31-c025aa81deff,potpourri.pizza,available,5.98,83.98,medium,low,9,namecheap,,,25/08/2026 08:24
+75266df9-1926-437c-a574-11ef7d2f08ee,gowns.pizza,available,5.98,83.98,low,low,5,namecheap,,,01/10/2026 18:12
 bd10686d-f2ff-48fe-9c17-66b0c81e6e1c,living.pizza,available,5.98,83.98,high,low,6,namecheap,,,25/09/2026 14:05
 9e97cd6d-8394-4826-bf20-1ae797e66956,facade.pizza,available,50.2,50.2,high,low,6,cloudflare,,,30/09/2026 09:35
 3cf34fb0-0f8c-4717-b64a-606c32a627ce,attorneys.pizza,available,17.99,64.99,medium,low,9,namesilo,,,28/09/2026 13:24
@@ -713,6 +756,7 @@ bd10686d-f2ff-48fe-9c17-66b0c81e6e1c,living.pizza,available,5.98,83.98,high,low,
 5276fe2a-8df7-448a-841e-8067df215431,donaldson.pizza,available,17.99,64.99,medium,low,9,namesilo,,,27/09/2026 01:45
 2280882e-2456-4310-9c38-38eaa163822a,rufous.pizza,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 22:57
 fb98898a-98d0-4311-b957-50d973f07124,jumentous.pizza,available,5.98,83.98,low,low,9,namecheap,,,22/08/2026 14:21
+07626d36-8be7-4a38-8070-a6b0043e5c63,onslow.pizza,available,17.99,64.99,medium,low,6,namesilo,,,02/10/2026 01:05
 05bb5c50-dbba-484e-b065-b3d85c082ace,framed.pizza,available,5.98,83.98,high,low,6,namecheap,,,18/08/2026 14:04
 db1be571-6573-47c0-979f-00c918123038,sri.pizza,premium,,,high,low,3,,,,30/09/2026 12:46
 5b5a5a80-00db-4682-93ad-c97d6b0fad69,griffon.pizza,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 05:02
@@ -722,6 +766,7 @@ d60cc630-0a50-4fb8-b5a8-23ac863d3864,berger.pizza,available,5.38,51.95,medium,lo
 bc2a4c1e-8a7b-4800-ad3b-05b94f40a6a7,rapturous.pizza,available,5.98,83.98,high,low,9,namecheap,,,14/08/2026 23:48
 f8ed0f3f-1825-4bba-81ab-21eeb8f2955e,supervision.pizza,available,17,,high,low,11,unstoppable,,,28/09/2026 22:58
 72a3511a-5947-49cf-a44a-2af75f68b86e,transfer.pizza,premium,512,512,high,low,8,namesilo,,,19/09/2026 03:42
+e5f43658-fdc7-4ed2-8f1e-f525250aed83,interception.pizza,available,5.38,51.95,high,low,12,spaceship,,,01/10/2026 13:24
 3f792acc-0c79-4847-81bc-c5663e07aefb,laughing.pizza,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 16:41
 2c8bdee9-b4c2-4d2f-8237-2b65506e9889,carla.pizza,available,17.99,64.99,high,low,5,namesilo,,,27/09/2026 07:21
 771a7eed-0564-4c64-a466-9cc47b4d27ef,calvinist.pizza,available,5.98,83.98,medium,low,9,namecheap,,,11/08/2026 15:24
@@ -781,6 +826,7 @@ b86b7d51-9351-4bda-ba26-301f03dc58db,christoph.pizza,available,17,,medium,low,9,
 ec32c921-adc3-43e7-9d67-d2ba312d474f,angelo.pizza,premium,78.54,78.54,high,low,6,namesilo,,,25/09/2026 16:57
 c25b64d3-3814-4cfc-aba0-85353b6c374e,abrasive.pizza,available,5.98,83.98,high,low,8,namecheap,,,
 cfef46e5-29a8-4187-9103-a4dcbf65d627,odour.pizza,available,17.99,64.99,high,low,5,namesilo,,,20/09/2026 08:26
+0f593cbd-f77f-4545-a23b-e03288dec058,aip.pizza,available,50.2,50.2,high,low,3,cloudflare,,,01/10/2026 07:20
 4cb613b9-889e-432d-a9dc-f6798c75268c,rehabs.pizza,available,5.98,83.98,medium,low,6,namecheap,,,20/09/2026 09:43
 551ae902-5db3-4af8-a8dc-2a337f910179,draining.pizza,available,5.98,83.98,medium,low,8,namecheap,,,14/08/2026 18:19
 3a8e66f8-ad0a-44e1-b3b6-1e7816667869,worms.pizza,available,10.81,52.01,medium,low,5,porkbun,,,28/09/2026 03:50
@@ -802,10 +848,11 @@ dd8b1e7f-976e-4b88-b5ba-97fc9f4843c7,colosseum.pizza,available,17.99,64.99,high,
 874ca1b2-d3e8-49c4-9e47-0f9ee62d2bdf,moire.pizza,available,5.98,83.98,medium,low,5,namecheap,,,25/08/2026 03:26
 e7be176d-b050-4dc7-8761-5f527e7a5b1d,ochre.pizza,available,5.98,83.98,high,low,5,namecheap,,,04/09/2026 00:33
 2433312b-8795-4122-8e46-f331e2f05aef,personals.pizza,available,5.98,83.98,medium,low,9,namecheap,,,08/09/2026 05:02
+9225618c-a02c-40d8-bbc3-72c01023dbf3,cordell.pizza,available,10.92,53.72,medium,low,7,dynadot,,,01/10/2026 12:03
 700cb1c6-3419-46bc-b708-667007fe35ef,solidus.pizza,available,17.99,64.99,high,low,7,namesilo,,,23/09/2026 12:18
 d2a09e0c-c418-4539-8b11-db0aa04087e2,hollering.pizza,available,17.99,64.99,medium,low,9,namesilo,,,23/09/2026 06:21
 52b95b47-68ff-457a-a4e5-314ddded580f,asset.pizza,available,5.38,51.95,high,low,5,spaceship,,,01/10/2026 02:31
-9d73c6b3-e4d9-45d3-8803-86c63456b258,influenced.pizza,available,19.99,,high,low,10,name.com,,,
+9d73c6b3-e4d9-45d3-8803-86c63456b258,influenced.pizza,available,50.2,50.2,high,low,10,cloudflare,,,01/10/2026 20:19
 33a0d720-0a59-47cd-8ea0-f372488a20eb,coalesced.pizza,available,5.98,83.98,medium,low,9,namecheap,,,
 43afc159-ea54-4195-92ce-85fc6d2ec068,reference.pizza,available,17,,high,low,9,unstoppable,,,28/09/2026 18:25
 9bf5de16-6849-43bb-a52d-f0c45fdd3ddf,blackwater.pizza,available,19.99,84.99,medium,low,10,name.com,,,24/09/2026 03:24
@@ -826,6 +873,7 @@ d066c25d-f1b0-417c-8fec-97b42a88c42c,programming.pizza,available,5.38,51.95,high
 bf4f5cb2-db7a-49a9-9fcf-87fbb4ff1c7c,rocker.pizza,available,17,,high,low,6,unstoppable,,,30/09/2026 10:59
 0210238d-0a7f-474c-a6d6-26d67c368151,awaiting.pizza,available,5.38,51.95,low,low,8,spaceship,,,28/09/2026 17:49
 d91b4b1b-cad0-451b-bce5-8b1e8384d787,upbeat.pizza,available,5.98,83.98,high,low,6,namecheap,,,04/09/2026 01:23
+ee2de092-c810-45ca-b8b1-a6b4a9998ce6,snoop.pizza,available,5.38,51.95,high,low,5,spaceship,,,01/10/2026 21:43
 a5c6008d-e6e2-4553-a4e4-718f9a8f1dc6,contamination.pizza,available,17,,medium,low,13,unstoppable,,,29/09/2026 22:52
 e1004928-91e4-43d0-9417-2a3d4a925498,beneficiary.pizza,available,5.38,51.95,high,low,11,spaceship,,,30/09/2026 03:53
 176ee834-3859-40bd-b0f9-bc4169dc8191,wyrd.pizza,available,5.98,83.98,medium,low,4,namecheap,,,13/09/2026 10:11
@@ -835,6 +883,7 @@ d9b87141-b7fb-402d-87db-98c819b0161c,conclusion.pizza,available,17,64.99,high,lo
 ea525256-a3c0-41e2-a77f-98405ffaacfc,panoptic.pizza,available,5.98,83.98,medium,low,8,namecheap,,,
 13e9cb7c-972b-46b4-ae66-c7b565d56ac0,melodic.pizza,available,5.98,83.98,high,low,7,namecheap,,,24/08/2026 19:41
 1dd5db42-3968-4446-a3c9-24f38c5902e1,three.pizza,available,17.99,64.99,high,low,5,namesilo,,,21/09/2026 13:02
+6de58844-9a7c-43c6-bc9d-0b94fe5bb96b,gaynor.pizza,available,17,,medium,low,6,unstoppable,,,02/10/2026 00:11
 1aa71697-a652-44f5-9aaa-6a6dd1c1e914,dashingly.pizza,available,5.98,83.98,medium,low,9,namecheap,,,14/09/2026 10:41
 5452165f-3a5a-4c66-b08d-b59b9bedbbfd,symptoms.pizza,available,5.38,51.95,medium,low,8,spaceship,,,27/09/2026 22:08
 58c3e5dd-4186-4531-bccd-67c3d22e2049,feathered.pizza,available,5.98,83.98,high,low,9,namecheap,,,18/08/2026 00:19
@@ -844,15 +893,18 @@ ea525256-a3c0-41e2-a77f-98405ffaacfc,panoptic.pizza,available,5.98,83.98,medium,
 de86f7db-2db8-4472-ae28-fffa41653ca5,windshield.pizza,available,17,,high,low,10,unstoppable,,,29/09/2026 14:08
 d92c258c-724e-434e-9273-18eace54a344,sample.pizza,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 10:33
 938aca1d-3ac5-4cfc-a944-cb8ea7220990,flashily.pizza,available,5.98,83.98,medium,low,8,namecheap,,,14/09/2026 18:54
+54e89295-ba97-4a48-bd3b-29565d25fdac,breckenridge.pizza,available,17.99,64.99,medium,low,12,namesilo,,,01/10/2026 11:00
 e7db55fc-a2c8-4af4-98cd-fe9a898c9764,wealthily.pizza,available,5.98,83.98,medium,low,9,namecheap,,,16/09/2026 11:21
 78a9b293-82c2-47a4-a551-e8623b9431ff,watchful.pizza,available,5.98,83.98,high,low,8,namecheap,,,
+8b0c673b-fdfa-4e34-9b4f-b7e6e5e32164,juror.pizza,available,5.38,51.95,high,low,5,spaceship,,,01/10/2026 20:11
 7b77f0e4-11c5-4fc1-92b4-d012b2baf16e,wharf.pizza,available,10.92,53.72,high,low,5,dynadot,,,30/09/2026 06:43
+0bca3ccf-ab88-4c06-a8d3-535fd17fd94a,wallachia.pizza,available,17.99,64.99,medium,low,9,namesilo,,,01/10/2026 23:44
 16b0d7eb-136e-4adf-b4b3-015da73f93fe,perfected.pizza,available,5.98,83.98,high,low,9,namecheap,,,27/09/2026 03:35
 bea16a22-2a35-47a1-bc1f-e3c38ee73bd7,bourne.pizza,available,17.99,64.99,medium,low,6,namesilo,,,30/09/2026 08:47
 019b8a62-d895-4d83-8805-c26bf3939389,allentown.pizza,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 10:52
 9a476c65-7dd8-4aa4-b113-2b941af4c29a,agromania.pizza,available,5.98,83.98,medium,low,9,namecheap,,,17/09/2026 19:38
 f4615bd5-b7d0-489c-b9a0-59d17b372bc3,whistler.pizza,available,17.99,64.99,high,low,8,namesilo,,,30/09/2026 00:54
-76cebf76-4b36-4f83-a096-f21c0136bbb2,integrate.pizza,available,5.38,51.95,high,low,9,spaceship,,,28/09/2026 06:58
+76cebf76-4b36-4f83-a096-f21c0136bbb2,integrate.pizza,available,5.98,83.98,high,low,9,namecheap,,,01/10/2026 17:05
 90487ab3-dd7d-45e7-a9d1-dc746e8bcd0f,eas.pizza,available,50.2,50.2,high,low,3,cloudflare,,,30/09/2026 09:27
 6185a33e-ca04-4562-8bf4-6acaa9145d7f,sichuan.pizza,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 15:21
 bfea66f1-1875-4387-9446-efbeee62754b,teaches.pizza,available,17,,medium,low,7,unstoppable,,,28/09/2026 08:58
@@ -861,6 +913,7 @@ d9bdc98b-2046-4c1f-9a15-42aeda4986ed,scrape.pizza,available,5.98,83.98,high,low,
 8b1037b4-8f0a-47eb-b4a4-fb103363fa92,swelled.pizza,available,5.98,83.98,medium,low,7,namecheap,,,11/09/2026 05:38
 943369b0-c19c-4bb2-926a-4b7a06b40e8a,episodic.pizza,available,5.98,83.98,medium,low,8,namecheap,,,17/08/2026 11:11
 a11f7949-ef48-4d54-b3a7-13397e986464,coital.pizza,available,5.98,83.98,low,low,6,namecheap,,,12/08/2026 16:22
+89f16499-b3fc-41d9-a3cc-171ff4e4a2aa,sarkar.pizza,available,5.38,51.95,medium,low,6,spaceship,,,01/10/2026 23:28
 6ae8b02f-f586-4696-a043-7467f7464f1c,wander.pizza,available,17.99,64.99,high,low,6,namesilo,,,28/09/2026 01:37
 67f0073d-29f8-4438-b9c1-83ee7e2f61ae,wylie.pizza,available,17.99,64.99,medium,low,5,namesilo,,,28/09/2026 13:59
 1f961bc3-37b2-4ee0-8ae2-2dd586feca5e,pansy.pizza,available,5.98,83.98,medium,low,5,namecheap,,,09/09/2026 08:07
@@ -889,6 +942,7 @@ fd721091-8dd1-4022-98b8-d48b23cc01cf,whiny.pizza,available,5.98,83.98,medium,low
 e3fee2fe-341b-4246-9709-d47d01595077,jocular.pizza,available,5.98,83.98,medium,low,7,namecheap,,,22/08/2026 12:57
 0f041579-68e0-42d3-8b17-07182563a812,andalusia.pizza,available,17.99,64.99,high,low,9,namesilo,,,19/09/2026 03:57
 76ba0ad4-c9db-4d79-b69b-d3f198da362c,autogyro.pizza,available,17.99,64.99,medium,low,8,namesilo,,,21/09/2026 06:23
+96e3c4bd-264e-4112-9513-d5f6de2e5a5d,sawmill.pizza,available,17.99,64.99,high,low,7,namesilo,,,02/10/2026 05:40
 149ec885-cf56-4ab2-b9a3-46153038731f,defy.pizza,available,17.99,64.99,high,low,4,namesilo,,,29/09/2026 20:41
 1c8111dd-44ab-44ec-975d-a5f981b7dc59,totaled.pizza,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 09:24
 c33dbf41-2ad8-4cfb-85d2-aec406c79201,faded.pizza,available,17.99,64.99,high,low,5,namesilo,,,22/09/2026 11:25
@@ -908,6 +962,7 @@ bcbc3596-ebca-48d6-b146-c892359ec101,imprecise.pizza,available,5.98,83.98,medium
 2e6e433e-41d8-4f2b-be22-da5e820aaee1,azonal.pizza,available,5.98,83.98,medium,low,6,namecheap,,,08/08/2026 02:27
 e0022921-e106-42b0-9e9d-f81987fe9e46,woodville.pizza,available,50.2,50.2,medium,low,9,cloudflare,,,30/09/2026 22:08
 e9b9c902-6c8a-42cb-ad42-e04fec3097b0,renaissance.pizza,available,17,,high,low,11,unstoppable,,,29/09/2026 02:57
+d03f11b5-6537-4d5d-aea9-c116f59e317c,confederation.pizza,available,5.38,51.95,medium,low,13,spaceship,,,01/10/2026 22:47
 4bffac32-0a47-44fb-9744-bb19f14e3678,crypt.pizza,available,5.98,83.98,high,low,5,namecheap,,,24/09/2026 19:58
 5c96a07d-f89a-47a6-9f8c-8fb570fc860e,statuesque.pizza,available,5.98,83.98,medium,low,10,namecheap,,,22/08/2026 14:32
 cef2d91f-e830-4938-adb5-8040ef0270a4,bickering.pizza,available,17.99,64.99,medium,low,9,namesilo,,,23/09/2026 13:12
@@ -917,11 +972,13 @@ e9cde46f-ba8d-4bac-ac15-1c439dc6d908,poured.pizza,available,17.99,64.99,medium,l
 b567454d-fb03-4852-8a0e-5067e261fec6,soon.pizza,available,17,,high,low,4,unstoppable,,,28/09/2026 13:25
 94933a44-8970-4b52-b8a6-c3538293c3e9,washes.pizza,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 04:54
 7a88bb2c-bc37-4e41-ad8d-f732139f16a0,bombing.pizza,available,50.2,50.2,medium,low,7,cloudflare,,,27/09/2026 11:45
+177bfbe1-6b28-49dc-b798-1661c59603f4,dci.pizza,available,50.2,50.2,high,low,3,cloudflare,,,02/10/2026 04:33
 09de3cc9-4f00-43fc-b75d-fd52865b2bb9,mortuary.pizza,available,5.98,83.98,medium,low,8,namecheap,,,25/08/2026 06:40
 b3d67008-6407-4e78-8160-4e7d098e1af5,geodesic.pizza,available,5.98,83.98,high,low,8,namecheap,,,18/08/2026 22:23
 593d5d08-944d-480e-928f-0147b471e4ad,picayune.pizza,available,5.98,83.98,medium,low,8,namecheap,,,18/08/2026 03:37
 55b9f6f9-ed81-425f-a1b1-ee3cbc2f4b3f,songs.pizza,available,5.98,83.98,high,low,5,namecheap,,,25/09/2026 19:03
 df6cedd1-5094-4b24-8e0a-0add867a6c66,equipped.pizza,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 14:45
+3cfd8924-8bd7-4120-bf6e-21f1bd249f04,jeffers.pizza,available,5.38,51.95,high,low,7,spaceship,,,02/10/2026 05:29
 0237927d-4689-4a8f-be6a-b0725b22af0e,iain.pizza,available,17,,medium,low,4,unstoppable,,,29/09/2026 15:22
 1b90b439-d7e2-4b93-99a8-a6d1fccead65,penultima.pizza,available,5.98,83.98,medium,low,9,namecheap,,,08/09/2026 15:14
 25892469-0ce2-4a56-83a9-99e11fbc6bb3,chelmsford.pizza,premium,,,medium,low,10,,,,29/09/2026 15:25
@@ -942,60 +999,3 @@ c49586d7-e87a-4fc9-8f2c-edf8fd166f3f,addressed.pizza,available,5.98,83.98,high,l
 cf425667-3c03-475c-ad32-c8ca8a328f81,hus.pizza,available,17.99,64.99,high,low,3,namesilo,,,30/09/2026 10:11
 e1f5dea8-c706-495f-a6b2-b742a2c46506,benz.pizza,available,5.38,51.95,high,low,4,spaceship,,,29/09/2026 14:58
 ac91c79a-bf10-4498-8036-7f370e81037d,movable.pizza,available,5.98,83.98,high,low,7,namecheap,,,25/08/2026 08:56
-2880d5d6-b7a3-4b95-89d5-4f1b3fdbe7d4,odious.pizza,available,5.98,83.98,medium,low,6,namecheap,,,
-abe52e8f-6dab-464f-b09f-14772808271c,wooded.pizza,available,5.98,83.98,medium,low,6,namecheap,,,13/09/2026 13:11
-5b592530-2a64-4ec2-8a7b-0b6605960d2f,amply.pizza,available,5.98,83.98,medium,low,5,namecheap,,,13/09/2026 19:37
-886a1221-c4c5-4cc8-a262-c001bcc461d6,nonzero.pizza,available,5.98,83.98,high,low,8,namecheap,,,03/09/2026 18:39
-ddb2e125-da76-4916-8383-7c5fec666313,apiarist.pizza,available,17.99,64.99,medium,low,8,namesilo,,,19/09/2026 17:19
-a13a33fe-4d13-4fa0-9cd0-d250e34966f8,tokens.pizza,available,17.99,64.99,high,medium,6,namesilo,,,19/09/2026 22:34
-0ae6f109-43b2-4c12-9f1a-e91bd19bfd10,mena.pizza,available,17.99,64.99,high,low,4,namesilo,,,29/09/2026 22:04
-79c05a51-ad78-409a-9a3b-99b3e9a89def,tarry.pizza,available,5.98,83.98,medium,low,5,namecheap,,,09/09/2026 15:16
-497f394b-5f63-49f8-b59c-7a79f0d58949,laws.pizza,available,17,,high,low,4,unstoppable,,,30/09/2026 02:25
-6c32caf5-c14d-4700-be05-2e3d378cf423,enemy.pizza,available,17,51.95,high,low,5,unstoppable,,,01/10/2026 03:12
-8bebd89a-655b-4f73-9ae5-cd70108b990a,pompon.pizza,available,17.99,64.99,medium,low,6,namesilo,,,19/09/2026 09:36
-6743499c-2548-4530-aeae-02897235deaa,creatures.pizza,available,17.99,64.99,medium,low,9,namesilo,,,27/09/2026 03:06
-421479a5-0efc-4a87-90f6-7afe98b47c7e,ancients.pizza,available,17.99,64.99,high,low,8,namesilo,,,19/09/2026 03:51
-2c6328a5-9d42-4d1d-91d2-4294df6e250b,ciliary.pizza,available,5.98,83.98,medium,low,7,namecheap,,,12/08/2026 08:04
-ae11bd07-6c13-449b-af97-a3ea1e4c1a30,dakar.pizza,premium,102.67,102.67,high,low,5,spaceship,,,29/09/2026 06:52
-e752ea1b-6dbe-4d01-b6c9-2d688e0b958d,flogging.pizza,available,5.98,83.98,medium,low,8,namecheap,,,22/08/2026 20:16
-81e5bd46-b284-4a77-90d6-3d5ceb7b07b9,baraka.pizza,available,17.99,64.99,high,low,6,namesilo,,,22/09/2026 04:07
-8d8ab001-d9ea-4b2d-be02-775098671991,evolve.pizza,available,5.38,51.95,high,medium,6,spaceship,,,30/09/2026 19:18
-829b866f-15ee-4002-9a50-1a85800bf7b5,gained.pizza,available,5.38,51.95,low,low,6,spaceship,,,28/09/2026 08:35
-cc353ebd-bd25-4ee7-955b-1969639b588d,awaken.pizza,available,5.98,83.98,high,low,6,namecheap,,,22/09/2026 14:40
-04826d07-d6b7-4aa5-9cba-4848db54ea4a,lunches.pizza,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 07:45
-bd5a6dfc-536a-4978-8d50-fd755db0b55d,slimy.pizza,available,5.98,83.98,medium,low,5,namecheap,,,14/08/2026 04:03
-0e9e8344-ea05-46d1-9051-b0e5303937e2,cheers.pizza,available,17.99,64.99,high,low,6,namesilo,,,27/09/2026 06:11
-8b8b2788-101a-434c-a2dd-4a9fa70fc21d,wiley.pizza,available,5.98,83.98,high,low,5,namecheap,,,27/09/2026 08:05
-537dfb40-45f1-4ae1-abf8-041497ffe1d7,trent.pizza,available,17.99,64.99,high,low,5,namesilo,,,25/09/2026 10:26
-ac875305-9e57-473d-9887-8dda5a4cd1c9,coyotes.pizza,available,50.2,50.2,medium,low,7,cloudflare,,,30/09/2026 07:28
-f1b8175d-43c2-41ff-a469-a81eae855e05,squawker.pizza,available,17.99,64.99,medium,low,8,namesilo,,,23/09/2026 06:50
-31a0c8fc-bb76-48cc-a721-6d589512ee7e,ascender.pizza,available,17.99,64.99,high,low,8,namesilo,,,20/09/2026 13:07
-935ec80f-5f6b-47ae-b222-d1be9e3bf5c1,bishops.pizza,available,17.99,64.99,low,low,7,namesilo,,,30/09/2026 23:08
-4ed48e1b-42de-4d10-8792-22c9573e5e27,springbok.pizza,available,17.99,64.99,medium,low,9,namesilo,,,19/09/2026 14:19
-d9ec7b60-2486-4fc5-9f58-d3579572f43a,been.pizza,available,19.99,,medium,low,4,name.com,,,
-aebc14b9-0bb8-4d93-82ad-2fbbeef477f0,reclaim.pizza,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 02:43
-b1450be9-af89-41c7-9237-f303afd5c271,huh.pizza,available,17,,high,low,3,unstoppable,,,01/10/2026 04:35
-e601ba8b-90c3-4d99-beb6-f938e8a89d19,lack.pizza,available,17.99,64.99,medium,low,4,namesilo,,,27/09/2026 03:43
-e3a58886-2ce3-4fa7-82ac-5b68af047226,dearie.pizza,available,19.99,84.99,high,low,6,name.com,,,13/08/2026 18:19
-eee62fdd-386c-4225-a072-e585b3f69999,skyscraper.pizza,available,5.98,83.98,high,low,10,namecheap,,,30/09/2026 11:02
-7b6198a2-f83d-40b9-8d4a-28d010665eeb,entire.pizza,available,5.98,83.98,high,low,6,namecheap,,,17/08/2026 09:57
-8661824c-e4f3-4b6e-9efa-5a9b82597f0d,wisdoms.pizza,available,17.99,64.99,medium,low,7,namesilo,,,21/09/2026 10:19
-0e081d97-faac-43de-8f7d-9f93bf457744,ambuscade.pizza,available,5.98,83.98,medium,low,9,namecheap,,,24/08/2026 12:31
-52652b17-7de0-4577-95d6-db56813743af,comprise.pizza,available,17,,high,low,8,unstoppable,,,30/09/2026 17:37
-cc74197e-0da2-473d-87dd-f8d6ec307c55,malagasy.pizza,available,5.38,51.95,medium,low,8,spaceship,,,29/09/2026 22:51
-f83e9297-b06b-4772-b118-2c9e4d33bd8c,sleigh.pizza,available,17.99,64.99,high,low,6,namesilo,,,30/09/2026 11:02
-90421098-82b7-472a-9d29-59bd8a3c4d9b,gyral.pizza,available,5.98,83.98,medium,low,5,namecheap,,,20/08/2026 21:19
-860d65e8-273e-487e-9032-ad08d0e57f7c,wildcat.pizza,available,5.98,83.98,high,low,7,namecheap,,,11/08/2026 07:09
-f02b6469-ce9f-4cab-aaaa-a9e87e6d5c4a,edmund.pizza,available,5.98,83.98,medium,low,6,namecheap,,,25/09/2026 19:09
-28a68618-7975-4661-928d-6f60f842ce20,cleft.pizza,available,5.98,83.98,high,low,5,namecheap,,,12/08/2026 10:39
-09291a8b-a915-4669-9817-3aef9be72058,asker.pizza,available,17.99,64.99,medium,low,5,namesilo,,,20/09/2026 14:27
-b6b1dac0-7aa1-4b5c-b042-57ece7c6af20,beaded.pizza,available,5.98,83.98,medium,low,6,namecheap,,,09/08/2026 03:18
-45bec2c4-b7f8-4935-9f1e-a021d97f6955,tunnels.pizza,available,50.2,50.2,low,low,7,cloudflare,,,28/09/2026 12:41
-baf081b7-d73b-4040-b725-4129fdb6bdae,naia.pizza,available,50.2,50.2,medium,low,4,cloudflare,,,30/09/2026 12:50
-272504b1-0046-426e-b833-9ac226e23ccc,doe.pizza,premium,78.54,78.54,high,low,3,namesilo,,,29/09/2026 00:39
-92edaf3c-75f9-43ed-ac14-7aa1a2adb49a,imitate.pizza,available,10.81,52.01,high,low,7,porkbun,,,29/09/2026 14:14
-dacb1520-880f-4b5a-bda5-293cd3d3a9e9,evenings.pizza,available,5.38,51.95,medium,low,8,spaceship,,,29/09/2026 05:28
-97787f2d-2970-4aea-98fb-b73a815abd5e,hervey.pizza,available,50.2,50.2,medium,low,6,cloudflare,,,30/09/2026 05:29
-d0fd2cc7-084b-49ac-96e9-782abaf3cf65,tinker.pizza,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 18:20
-8633e024-965d-4249-82d8-e1a7c5bf79d0,lowered.pizza,available,17.99,64.99,medium,low,7,namesilo,,,25/09/2026 15:26
-a124407b-dd95-4a5c-afa5-49e8045681be,helical.pizza,available,5.98,83.98,medium,low,7,namecheap,,,12/08/2026 16:11
